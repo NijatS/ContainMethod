@@ -1,0 +1,15 @@
+C:\Users\Nijat\source\repos\ReverseMethod\ReverseMethod\bin\Debug\net6.0\ReverseMethod.exe
+C:\Users\Nijat\source\repos\ReverseMethod\ReverseMethod\bin\Debug\net6.0\ReverseMethod.deps.json
+C:\Users\Nijat\source\repos\ReverseMethod\ReverseMethod\bin\Debug\net6.0\ReverseMethod.runtimeconfig.json
+C:\Users\Nijat\source\repos\ReverseMethod\ReverseMethod\bin\Debug\net6.0\ReverseMethod.dll
+C:\Users\Nijat\source\repos\ReverseMethod\ReverseMethod\bin\Debug\net6.0\ReverseMethod.pdb
+C:\Users\Nijat\source\repos\ReverseMethod\ReverseMethod\obj\Debug\net6.0\ReverseMethod.csproj.AssemblyReference.cache
+C:\Users\Nijat\source\repos\ReverseMethod\ReverseMethod\obj\Debug\net6.0\ReverseMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nijat\source\repos\ReverseMethod\ReverseMethod\obj\Debug\net6.0\ReverseMethod.AssemblyInfoInputs.cache
+C:\Users\Nijat\source\repos\ReverseMethod\ReverseMethod\obj\Debug\net6.0\ReverseMethod.AssemblyInfo.cs
+C:\Users\Nijat\source\repos\ReverseMethod\ReverseMethod\obj\Debug\net6.0\ReverseMethod.csproj.CoreCompileInputs.cache
+C:\Users\Nijat\source\repos\ReverseMethod\ReverseMethod\obj\Debug\net6.0\ReverseMethod.dll
+C:\Users\Nijat\source\repos\ReverseMethod\ReverseMethod\obj\Debug\net6.0\refint\ReverseMethod.dll
+C:\Users\Nijat\source\repos\ReverseMethod\ReverseMethod\obj\Debug\net6.0\ReverseMethod.pdb
+C:\Users\Nijat\source\repos\ReverseMethod\ReverseMethod\obj\Debug\net6.0\ReverseMethod.genruntimeconfig.cache
+C:\Users\Nijat\source\repos\ReverseMethod\ReverseMethod\obj\Debug\net6.0\ref\ReverseMethod.dll
